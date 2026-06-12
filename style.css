@@ -9,7 +9,22 @@ h1 {
 p {
     color: green;
     font-size: 18px;
+body {
+    background-color: lightblue;
+    text-align: center;
+    font-family: Arial;
 }
+
+h1 {
+    color: darkblue;
+    font-size: 40px;
+}
+
+p {
+    color: green;
+    font-size: 22px;
+}
+
 }
 }
 }
